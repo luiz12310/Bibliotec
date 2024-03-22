@@ -1,0 +1,142 @@
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.exe.config
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.exe
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.pdb
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.IO.Pipelines.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Memory.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\ZstdSharp.dll
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.pdb
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\MySql.Data.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.IO.Pipelines.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Memory.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.AssemblyReference.cache
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.frmLogin.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Properties.Resources.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.GenerateResource.cache
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.CopyComplete
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.exe
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.pdb
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmGerenciarLivro.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmUsuario.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmCarrinho.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmOcorrencia.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmCriarUsuario.resources
+C:\Users\luizh\OneDrive\Área de Trabalho\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmAdministrar.resources
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.exe.config
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.exe
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.pdb
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\MySql.Data.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Buffers.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.IO.Pipelines.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Memory.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Numerics.Vectors.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\ZstdSharp.dll
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.pdb
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\MySql.Data.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Buffers.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.IO.Pipelines.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Memory.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Numerics.Vectors.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projetos\Gerenciador_biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.AssemblyReference.cache
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.frmLogin.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmAdministrar.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmCarrinho.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmCriarUsuario.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmGerenciarLivro.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmOcorrencia.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmUsuario.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Properties.Resources.resources
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.GenerateResource.cache
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.CoreCompileInputs.cache
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.CopyComplete
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.exe
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.pdb
+D:\Projetos\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmAdm.resources
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.exe.config
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.exe
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Gerenciador_biblioteca.pdb
+D:\Testes\Gerenciador_biblioteca\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\K4os.Hash.xxHash.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\MySql.Data.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Buffers.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.IO.Pipelines.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Memory.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Numerics.Vectors.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\ZstdSharp.dll
+D:\Testes\Gerenciador_biblioteca\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.pdb
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Google.Protobuf.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\K4os.Hash.xxHash.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\MySql.Data.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Buffers.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.IO.Pipelines.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Memory.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Numerics.Vectors.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Testes\Gerenciador_biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.AssemblyReference.cache
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmCarrinho.resources
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmGerenciarLivro.resources
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmOcorrencia.resources
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Forms.frmUsuario.resources
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.Properties.Resources.resources
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.GenerateResource.cache
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.csproj.CoreCompileInputs.cache
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerencia.D2519FB7.Up2Date
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.exe
+D:\Testes\Gerenciador_biblioteca\obj\Debug\Gerenciador_biblioteca.pdb
